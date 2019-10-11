@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrueFalse</string>
+    <string name="False">False</string>
+    <string name="True">True</string>
+    <string name="Question">Question</string>
+    <string name="Score">Score</string>
+</resources>
