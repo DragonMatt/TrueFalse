@@ -4,4 +4,6 @@
     <string name="True">True</string>
     <string name="Question">Question</string>
     <string name="Score">Score</string>
+    <string name="Start">Touch to start</string>
+    <string name="FinalScore">Final Score:</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrueFalse</string>
+    <string name="Question">問題</string>
+    <string name="True">真正</string>
+    <string name="False">假</string>
+    <string name="Score">得分</string>
+    <string name="Start">開始</string>
+</resources>
